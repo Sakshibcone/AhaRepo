@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-02-22 11:27:41</sys_created_on>
+        <sys_id>c4149686977185108ac03f0e6253afe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_aha_spoke_aha_webhook_answer_subflow.sn_aha_spoke.aha_webhook_answer_subflow_user</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_security_acl display_value="sn_aha_spoke_aha_webhook_answer_subflow">80149686977185108ac03f0e6253afe0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c4149686977185108ac03f0e6253afe3</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-02-22 11:27:41</sys_updated_on>
+        <sys_user_role display_value="sn_aha_spoke.aha_webhook_answer_subflow_user" name="sn_aha_spoke.aha_webhook_answer_subflow_user">2f04d286977185108ac03f0e6253afcf</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</application>
+        <file_path/>
+        <instance_id>e22ff39adb01a4943050ac44d496196e</instance_id>
+        <instance_name>sapparisspoke1</instance_name>
+        <name>sys_security_acl_role_c4149686977185108ac03f0e6253afe3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>Mayank</sys_created_by><sys_created_on>2022-02-22 11:27:41</sys_created_on><sys_id>c4149686977185108ac03f0e6253afe3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_aha_spoke_aha_webhook_answer_subflow.sn_aha_spoke.aha_webhook_answer_subflow_user</sys_name><sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package><sys_policy/><sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope><sys_security_acl display_value="sn_aha_spoke_aha_webhook_answer_subflow">80149686977185108ac03f0e6253afe0</sys_security_acl><sys_update_name>sys_security_acl_role_c4149686977185108ac03f0e6253afe3</sys_update_name><sys_updated_by>Mayank</sys_updated_by><sys_updated_on>2022-02-22 11:27:41</sys_updated_on><sys_user_role display_value="sn_aha_spoke.aha_webhook_answer_subflow_user" name="sn_aha_spoke.aha_webhook_answer_subflow_user">2f04d286977185108ac03f0e6253afcf</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1749348370</payload_hash>
+        <record_name>sn_aha_spoke_aha_webhook_answer_subflow.sn_aha_spoke.aha_webhook_answer_subflow_user</record_name>
+        <reverted_from/>
+        <source>0dfcc1961b3f01104d93ea06624bcb8c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 11:07:17</sys_created_on>
+        <sys_id>cc6e4dda1b3f01104d93ea06624bcbe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181241929b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 11:07:17</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>8c1496863f718510a8e351ff7977bae5</update_guid>
+        <update_guid_history>8c1496863f718510a8e351ff7977bae5:-1749348370</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sn_aha_spoke_aha_webhook_answer_subflow.sn_aha_spoke.aha_webhook_answer_subflow_">7912d9e21bbb41104d93ea06624bcbda</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-03 06:02:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>428e41d224ed4cc1b6b991b3dedb8fb1</sys_id>
+        <sys_metadata>c4149686977185108ac03f0e6253afe3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_aha_spoke_aha_webhook_answer_subflow.sn_aha_spoke.aha_webhook_answer_subflow_user</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_parent display_value="">80149686977185108ac03f0e6253afe0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_scope_delete display_value="">ad8078870a0a4ed4ac019275e40cf469</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c4149686977185108ac03f0e6253afe3</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c4149686977185108ac03f0e6253afe3">cc6e4dda1b3f01104d93ea06624bcbe4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-03 06:02:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

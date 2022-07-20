@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDe7d6f1398f050910a1dbef3d10d06534</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f436674cc396201021f5e81aa840dd0c</scope_name>
+        <serialized_content>{"FlowDesigner:FDe7d6f1398f050910a1dbef3d10d06534":{"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FDe7d6f1398f050910a1dbef3d10d06534.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDe7d6f1398f050910a1dbef3d10d06534\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Workflow Status\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"69ba1982-8ddb-4055-a617-7e2c9b9be212\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Sakshi.A</sys_created_by>
+        <sys_created_on>2022-01-15 07:54:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>abd6f139970509101ecb350e6253af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDe7d6f1398f050910a1dbef3d10d06534</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_complex_object_abd6f139970509101ecb350e6253af34</sys_update_name>
+        <sys_updated_by>Sakshi.A</sys_updated_by>
+        <sys_updated_on>2022-01-15 07:54:34</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

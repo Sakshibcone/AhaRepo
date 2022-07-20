@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD875c78561b5081509bb85a2cb033b517</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f436674cc396201021f5e81aa840dd0c</scope_name>
+        <serialized_content>{"FlowDesigner:FD875c78561b5081509bb85a2cb033b517":{},"FlowDesigner:FD875c78561b5081509bb85a2cb033b517.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"2ccf792b-b4d4-4556-a092-54c5cdf3964b\",\"default_value\":\"\",\"label\":\"obj\",\"mandatory\":\"false\",\"uiUniqueId\":\"e2e17eeb-c76d-4067-a15a-0ce81ba6b19d\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD875c78561b5081509bb85a2cb033b517\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"9b06df94-d883-4028-a24f-9d709e5c2e38\",\"hint\":null,\"uiType\":\"object\",\"order\":\"5\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-10 10:08:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4b5c7856975081501ecb350e6253af17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD875c78561b5081509bb85a2cb033b517</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_complex_object_4b5c7856975081501ecb350e6253af17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-10 10:08:48</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

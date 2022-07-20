@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>authorization_code</grant_type>
+        <jwt_provider/>
+        <name>Aha!.OAuthProfile.3</name>
+        <oauth_entity display_value="Aha! OAuth.3">b76ffbf4876e0d1072fbbaa8dabb35ae</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>Sakshi</sys_created_by>
+        <sys_created_on>2022-03-28 04:51:30</sys_created_on>
+        <sys_id>7f6ffbf4876e0d1072fbbaa8dabb35b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aha!.OAuthProfile.3</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>oauth_entity_profile_7f6ffbf4876e0d1072fbbaa8dabb35b0</sys_update_name>
+        <sys_updated_by>Sakshi</sys_updated_by>
+        <sys_updated_on>2022-03-28 04:51:30</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

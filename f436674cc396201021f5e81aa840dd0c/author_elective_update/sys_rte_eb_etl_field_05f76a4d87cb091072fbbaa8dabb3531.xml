@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>sn_ihub_target_u_feature_id</field>
+        <name>sn_ihub_target_u_feature_id</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-04-22 13:39:09</sys_created_on>
+        <sys_id>05f76a4d87cb091072fbbaa8dabb3531</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ihub_target_u_feature_id</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Aha Import Integration_etl_ihub">70372a4d87cb091072fbbaa8dabb35bd</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sn_aha_spoke_feature_aha">41f76a4d87cb091072fbbaa8dabb352c</sys_rte_eb_entity>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_05f76a4d87cb091072fbbaa8dabb3531</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-04-22 13:39:09</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</application>
+        <file_path/>
+        <instance_id>e22ff39adb01a4943050ac44d496196e</instance_id>
+        <instance_name>sapparisspoke1</instance_name>
+        <name>sys_rte_eb_etl_field_05f76a4d87cb091072fbbaa8dabb3531</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>sn_ihub_target_u_feature_id</field><name>sn_ihub_target_u_feature_id</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>Mayank</sys_created_by><sys_created_on>2022-04-22 13:39:09</sys_created_on><sys_id>05f76a4d87cb091072fbbaa8dabb3531</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_ihub_target_u_feature_id</sys_name><sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package><sys_policy/><sys_rte_eb_definition display_value="Aha Import Integration_etl_ihub">70372a4d87cb091072fbbaa8dabb35bd</sys_rte_eb_definition><sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sn_aha_spoke_feature_aha">41f76a4d87cb091072fbbaa8dabb352c</sys_rte_eb_entity><sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope><sys_update_name>sys_rte_eb_etl_field_05f76a4d87cb091072fbbaa8dabb3531</sys_update_name><sys_updated_by>Mayank</sys_updated_by><sys_updated_on>2022-04-22 13:39:09</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>-1203255765</payload_hash>
+        <record_name>sn_ihub_target_u_feature_id</record_name>
+        <reverted_from/>
+        <source>f08b75de1bbf01104d93ea06624bcbf5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 14:38:36</sys_created_on>
+        <sys_id>97bef91a1bff01104d93ea06624bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18124da9f6c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 14:38:36</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>41f76a4ddccb0910265ad871e204b732</update_guid>
+        <update_guid_history>41f76a4ddccb0910265ad871e204b732:-1203255765</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-03 06:01:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>66e5e03187f64320becaea26a51fdd11</sys_id>
+        <sys_metadata>05f76a4d87cb091072fbbaa8dabb3531</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ihub_target_u_feature_id</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_scope_delete display_value="">ad8078870a0a4ed4ac019275e40cf469</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_05f76a4d87cb091072fbbaa8dabb3531</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_05f76a4d87cb091072fbbaa8dabb3531">97bef91a1bff01104d93ea06624bcbc6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-03 06:01:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

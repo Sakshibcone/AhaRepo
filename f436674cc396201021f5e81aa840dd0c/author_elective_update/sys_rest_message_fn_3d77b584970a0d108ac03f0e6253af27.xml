@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Create Feature</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile display_value="Aha!.OAuthProfile.2">cb0fb0779739c9108ac03f0e6253af0b</oauth2_profile>
+        <protocol_name/>
+        <qualified_name>Aha Feature [ Create Feature ]</qualified_name>
+        <rest_endpoint>https://servicenow-inc.aha.io</rest_endpoint>
+        <rest_message display_value="Aha Feature">dc17b584970a0d108ac03f0e6253af1e</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-02-28 14:30:36</sys_created_on>
+        <sys_id>3d77b584970a0d108ac03f0e6253af27</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Create Feature</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_rest_message_fn_3d77b584970a0d108ac03f0e6253af27</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-02-28 15:01:39</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</application>
+        <file_path/>
+        <instance_id>e22ff39adb01a4943050ac44d496196e</instance_id>
+        <instance_name>sapparisspoke1</instance_name>
+        <name>sys_rest_message_fn_3d77b584970a0d108ac03f0e6253af27</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Create Feature</function_name><http_method>post</http_method><lock>false</lock><oauth2_profile display_value="Aha!.OAuthProfile.2">cb0fb0779739c9108ac03f0e6253af0b</oauth2_profile><protocol_name/><qualified_name>Aha Feature [ Create Feature ]</qualified_name><rest_endpoint>https://servicenow-inc.aha.io</rest_endpoint><rest_message display_value="Aha Feature">dc17b584970a0d108ac03f0e6253af1e</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>Mayank</sys_created_by><sys_created_on>2022-02-28 14:30:36</sys_created_on><sys_id>3d77b584970a0d108ac03f0e6253af27</sys_id><sys_mod_count>12</sys_mod_count><sys_name>Create Feature</sys_name><sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package><sys_policy/><sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope><sys_update_name>sys_rest_message_fn_3d77b584970a0d108ac03f0e6253af27</sys_update_name><sys_updated_by>Mayank</sys_updated_by><sys_updated_on>2022-02-28 15:01:39</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>-1846255603</payload_hash>
+        <record_name>Create Feature</record_name>
+        <reverted_from/>
+        <source>0dfcc1961b3f01104d93ea06624bcb8c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 11:07:16</sys_created_on>
+        <sys_id>7f5e4dda1b3f01104d93ea06624bcb8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181241925890000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 11:07:16</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>ec9eb14ce00a0d10e95f839ca5a13a2e</update_guid>
+        <update_guid_history>ec9eb14ce00a0d10e95f839ca5a13a2e:-1846255603,9e7e314c560a0d10c8e60b30f8173b84:-1807537786,f86ebd0c1a0a0d102a19fde62f22f7f8:-391331957,924e750c870a0d100b83e25b692d97c6:-1623305381,e2ed750c6e0a0d10bf4eb201f99d8316:1437636259,62ddf10c5e0a0d10c770998ae4984953:563184333,d00d79c89c0a0d103aeb3828d6e32fb0:640712855,217cf1c8000a0d1061ac49c7387b8a26:-1506487433,f16afd08e10a0d10dc2720a87d178266:657621780,7fc9fd08090a0d10df3b08e989cbce4f:131361389,0c99f5c4f30a0d1085b1436531a00e98:-1496750241,a228f5c45d0a0d10b58cb2e2df54ba1e:1868409882,7577fd846f0a0d10b4233a45668bb11a:-1290492818</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-03 12:14:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>3bcf00e2669742009c97e17fe39a4000</sys_id>
+        <sys_metadata>3d77b584970a0d108ac03f0e6253af27</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Feature</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_scope_delete display_value="">ad8078870a0a4ed4ac019275e40cf469</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_3d77b584970a0d108ac03f0e6253af27</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_3d77b584970a0d108ac03f0e6253af27">7f5e4dda1b3f01104d93ea06624bcb8d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-03 12:14:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

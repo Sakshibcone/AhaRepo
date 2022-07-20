@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDbf7570cde0954110c2050c13647c07fc</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f436674cc396201021f5e81aa840dd0c</scope_name>
+        <serialized_content>{"FlowDesigner:FDbf7570cde0954110c2050c13647c07fc":{"$COCollectionField":[{"score_facts_obj":{"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"value":"Integer","value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Value\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Score Facts\",\"mandatory\":\"false\",\"child_name\":\"score_facts_obj\",\"uiUniqueId\":\"2b44ced8-4501-4ce6-a230-156885937035\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDbf7570cde0954110c2050c13647c07fc\",\"child_label\":\"Score Facts Obj\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"7\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"95127e5a-0e53-4a55-ba70-8808fcdd6548\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDbf7570cde0954110c2050c13647c07fc.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Score Facts\",\"mandatory\":\"false\",\"child_name\":\"score_facts_obj\",\"uiUniqueId\":\"2b44ced8-4501-4ce6-a230-156885937035\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDbf7570cde0954110c2050c13647c07fc\",\"child_label\":\"Score Facts Obj\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"7\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"95127e5a-0e53-4a55-ba70-8808fcdd6548\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Sakshi.A</sys_created_by>
+        <sys_created_on>2022-01-25 05:29:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>737570cd47954110bd95a144846d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDbf7570cde0954110c2050c13647c07fc</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_complex_object_737570cd47954110bd95a144846d43fd</sys_update_name>
+        <sys_updated_by>Sakshi.A</sys_updated_by>
+        <sys_updated_on>2022-01-25 05:29:13</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

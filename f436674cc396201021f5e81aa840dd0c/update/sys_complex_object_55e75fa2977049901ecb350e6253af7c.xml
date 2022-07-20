@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD91e75fa20770499046c9a7d23e8c3a7c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f436674cc396201021f5e81aa840dd0c</scope_name>
+        <serialized_content>{"FlowDesigner:FD91e75fa20770499046c9a7d23e8c3a7c":{"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"31700953-a6e1-432d-93ed-323e198e77b9\"}"},"reference_prefix":"String","reference_prefix.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Reference Prefix\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"60acf706-b5af-47a9-9941-fe18ce6388d0\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Id\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"d0ee35df-1e8e-451f-ab1d-09e78e557cee\"}"}},"FlowDesigner:FD91e75fa20770499046c9a7d23e8c3a7c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"bae0432b-410f-40b1-bf3f-e6d944c571b9\",\"default_value\":\"\",\"label\":\"Product\",\"mandatory\":\"false\",\"child_name\":\"product_obj\",\"uiUniqueId\":\"8ae40406-4cdf-4cb1-b1da-4f9b7a654137\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD91e75fa20770499046c9a7d23e8c3a7c\",\"child_label\":\"Product obj\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"0b88cdeb-a82f-42a8-9e4a-e461a0cce8e2\",\"sourceType\":\"step\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"4\",\"max_length\":\"0\",\"child_uiUniqueId\":\"72126e39-f862-4999-ab4a-c8fff7dc2bfd\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-01-05 12:38:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>55e75fa2977049901ecb350e6253af7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD91e75fa20770499046c9a7d23e8c3a7c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_complex_object_55e75fa2977049901ecb350e6253af7c</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-01-05 12:38:13</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

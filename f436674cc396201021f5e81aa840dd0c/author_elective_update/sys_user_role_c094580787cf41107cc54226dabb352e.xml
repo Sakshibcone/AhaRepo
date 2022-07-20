@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_aha_spoke.aha_ideas_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>aha_ideas_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-04-28 08:03:02</sys_created_on>
+        <sys_id>c094580787cf41107cc54226dabb352e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_aha_spoke.aha_ideas_user</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_user_role_c094580787cf41107cc54226dabb352e</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-04-28 08:03:02</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</application>
+        <file_path/>
+        <instance_id>e22ff39adb01a4943050ac44d496196e</instance_id>
+        <instance_name>sapparisspoke1</instance_name>
+        <name>sys_user_role_c094580787cf41107cc54226dabb352e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>sn_aha_spoke.aha_ideas_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>aha_ideas_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>Mayank</sys_created_by><sys_created_on>2022-04-28 08:03:02</sys_created_on><sys_id>c094580787cf41107cc54226dabb352e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_aha_spoke.aha_ideas_user</sys_name><sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package><sys_policy/><sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope><sys_update_name>sys_user_role_c094580787cf41107cc54226dabb352e</sys_update_name><sys_updated_by>Mayank</sys_updated_by><sys_updated_on>2022-04-28 08:03:02</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1467544891</payload_hash>
+        <record_name>sn_aha_spoke.aha_ideas_user</record_name>
+        <reverted_from/>
+        <source>e9b681621b7b41104d93ea06624bcbaf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-03 05:31:13</sys_created_on>
+        <sys_id>760b8daa1b7b41104d93ea06624bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181280bd4f60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-03 05:31:13</sys_updated_on>
+        <type>Role</type>
+        <update_guid>00945807dacf411039631d5969aa5f32</update_guid>
+        <update_guid_history>00945807dacf411039631d5969aa5f32:-1467544891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sn_aha_spoke.aha_ideas_user">e416666a1bbf41104d93ea06624bcb6e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-03 12:08:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>efa8730675a04b9e99cdf5b3efb62669</sys_id>
+        <sys_metadata>c094580787cf41107cc54226dabb352e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_aha_spoke.aha_ideas_user</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_scope_delete display_value="">ad8078870a0a4ed4ac019275e40cf469</sys_scope_delete>
+        <sys_update_name>sys_user_role_c094580787cf41107cc54226dabb352e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_c094580787cf41107cc54226dabb352e">760b8daa1b7b41104d93ea06624bcb4c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-03 12:08:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

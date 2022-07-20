@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Query Builder Results</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Query Builder Results</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Query Builder Results" name="Query Builder Results">b4bf4ca6db41201069b45478dc9619a9</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-03 05:56:14</sys_created_on>
+        <sys_id>6dc0ddee1b7b41104d93ea06624bcbf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Query Builder Results</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_wizard_answer_6dc0ddee1b7b41104d93ea06624bcbf2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-03 05:56:14</sys_updated_on>
+        <table/>
+        <target_url>sn_aha_spoke_u_cmdb_qb_result_7e2b4c10be008e8486e7412aa1880babe135b9ec.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</application>
+        <file_path/>
+        <instance_id>e22ff39adb01a4943050ac44d496196e</instance_id>
+        <instance_name>sapparisspoke1</instance_name>
+        <name>sys_wizard_answer_6dc0ddee1b7b41104d93ea06624bcbf2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Query Builder Results</answer><button_label/><dependent_value/><element/><name>Query Builder Results</name><next_question/><order>100</order><payload_name/><question display_value="Query Builder Results" name="Query Builder Results">b4bf4ca6db41201069b45478dc9619a9</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-03 05:56:14</sys_created_on><sys_id>6dc0ddee1b7b41104d93ea06624bcbf2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Query Builder Results</sys_name><sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package><sys_policy/><sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope><sys_update_name>sys_wizard_answer_6dc0ddee1b7b41104d93ea06624bcbf2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-03 05:56:14</sys_updated_on><table/><target_url>sn_aha_spoke_u_cmdb_qb_result_7e2b4c10be008e8486e7412aa1880babe135b9ec.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1754048250</payload_hash>
+        <record_name>Query Builder Results</record_name>
+        <reverted_from/>
+        <source>5f2519021b330110016ba975624bcb1a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-01 16:58:30</sys_created_on>
+        <sys_id>6bf6a1661bfb41104d93ea06624bcb19</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>181203456f00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>2bf6a166bdfb4110e2c2346b85f24a19</update_guid>
+        <update_guid_history>2bf6a166bdfb4110e2c2346b85f24a19:-1754048250</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>satyasagar.palivela@snc</sys_created_by>
+        <sys_created_on>2022-06-03 07:33:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>4f80e5702fa34724a8e240677487f1e1</sys_id>
+        <sys_metadata>6dc0ddee1b7b41104d93ea06624bcbf2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Query Builder Results</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_parent display_value="Query Builder Results">b4bf4ca6db41201069b45478dc9619a9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_scope_delete display_value="">ad8078870a0a4ed4ac019275e40cf469</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_6dc0ddee1b7b41104d93ea06624bcbf2</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_6dc0ddee1b7b41104d93ea06624bcbf2">6bf6a1661bfb41104d93ea06624bcb19</sys_update_version>
+        <sys_updated_by>satyasagar.palivela@snc</sys_updated_by>
+        <sys_updated_on>2022-06-03 07:33:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

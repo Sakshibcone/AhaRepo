@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Aha Webhook">762e07c487b5c110740c99783cbb35f1</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Feature Ahas</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_aha_spoke_feature_aha</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_aha_spoke.feature_aha_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-02-28 14:19:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c05b504970a0d108ac03f0e6253afdc</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Aha Feature Records</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_app_module_2c05b504970a0d108ac03f0e6253afdc</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-03-31 06:57:53</sys_updated_on>
+        <timeline_page/>
+        <title>Aha Feature Records</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</application>
+        <file_path/>
+        <instance_id>e22ff39adb01a4943050ac44d496196e</instance_id>
+        <instance_name>sapparisspoke1</instance_name>
+        <name>sys_app_module_2c05b504970a0d108ac03f0e6253afdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Aha Webhook">762e07c487b5c110740c99783cbb35f1</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Feature Ahas</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sn_aha_spoke_feature_aha</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>sn_aha_spoke.feature_aha_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Mayank</sys_created_by><sys_created_on>2022-02-28 14:19:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2c05b504970a0d108ac03f0e6253afdc</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Aha Feature Records</sys_name><sys_overrides/><sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package><sys_policy/><sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope><sys_update_name>sys_app_module_2c05b504970a0d108ac03f0e6253afdc</sys_update_name><sys_updated_by>Mayank</sys_updated_by><sys_updated_on>2022-03-31 06:57:53</sys_updated_on><timeline_page/><title>Aha Feature Records</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>924024809</payload_hash>
+        <record_name>Aha Feature Records</record_name>
+        <reverted_from/>
+        <source>f08b75de1bbf01104d93ea06624bcbf5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 14:25:52</sys_created_on>
+        <sys_id>f0dbfdde1bbf01104d93ea06624bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18124cef6d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 14:25:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2429ffb9d6ee0110804a3124725c85e0</update_guid>
+        <update_guid_history>2429ffb9d6ee0110804a3124725c85e0:924024809,0609bfb9eeee0110eeea9fec0516e597:1194033773,1832d0efda9e09102f4e38414ce407fb:47719804,c89e082f999e0910725985f4badc0da8:-1634912984,6405b504680a0d100ee931af2a623cdf:-212071040</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Aha Feature Records">eb362a6a1bbf41104d93ea06624bcb90</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-03 12:09:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2d898199fbab4b70b49b200f75049240</sys_id>
+        <sys_metadata>2c05b504970a0d108ac03f0e6253afdc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aha Feature Records</sys_name>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_scope_delete display_value="">ad8078870a0a4ed4ac019275e40cf469</sys_scope_delete>
+        <sys_update_name>sys_app_module_2c05b504970a0d108ac03f0e6253afdc</sys_update_name>
+        <sys_update_version display_value="sys_app_module_2c05b504970a0d108ac03f0e6253afdc">f0dbfdde1bbf01104d93ea06624bcb61</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-03 12:09:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

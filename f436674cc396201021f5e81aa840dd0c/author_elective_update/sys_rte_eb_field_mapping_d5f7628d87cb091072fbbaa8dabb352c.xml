@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="sn_ihub_target_u_release_name">45f7228d87cb091072fbbaa8dabb35f1</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-04-22 13:39:10</sys_created_on>
+        <sys_id>d5f7628d87cb091072fbbaa8dabb352c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Aha Import Integration_etl_ihub">70372a4d87cb091072fbbaa8dabb35bd</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">d9f7628d87cb091072fbbaa8dabb350c</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_d5f7628d87cb091072fbbaa8dabb352c</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-04-22 13:39:10</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Release Name">f357ea4d87cb091072fbbaa8dabb3539</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</application>
+        <file_path/>
+        <instance_id>e22ff39adb01a4943050ac44d496196e</instance_id>
+        <instance_name>sapparisspoke1</instance_name>
+        <name>sys_rte_eb_field_mapping_d5f7628d87cb091072fbbaa8dabb352c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field display_value="sn_ihub_target_u_release_name">45f7228d87cb091072fbbaa8dabb35f1</source_sys_rte_eb_field><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>Mayank</sys_created_by><sys_created_on>2022-04-22 13:39:10</sys_created_on><sys_id>d5f7628d87cb091072fbbaa8dabb352c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package><sys_policy/><sys_rte_eb_definition display_value="Aha Import Integration_etl_ihub">70372a4d87cb091072fbbaa8dabb35bd</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">d9f7628d87cb091072fbbaa8dabb350c</sys_rte_eb_entity_mapping><sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope><sys_update_name>sys_rte_eb_field_mapping_d5f7628d87cb091072fbbaa8dabb352c</sys_update_name><sys_updated_by>Mayank</sys_updated_by><sys_updated_on>2022-04-22 13:39:10</sys_updated_on><target_sys_rte_eb_field display_value="Release Name">f357ea4d87cb091072fbbaa8dabb3539</target_sys_rte_eb_field></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>2045545756</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f08b75de1bbf01104d93ea06624bcbf5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 14:38:39</sys_created_on>
+        <sys_id>04ce7d1a1bff01104d93ea06624bcb59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18124daaab10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 14:38:39</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>55f7628d10cb0910999de2bf626b162d</update_guid>
+        <update_guid_history>55f7628d10cb0910999de2bf626b162d:2045545756</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-03 06:01:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>1e50a28884884ac88f8f91e03f595c40</sys_id>
+        <sys_metadata>d5f7628d87cb091072fbbaa8dabb352c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Aha! Spoke" source="sn_aha_spoke">f436674cc396201021f5e81aa840dd0c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Aha! Spoke">f436674cc396201021f5e81aa840dd0c</sys_scope>
+        <sys_scope_delete display_value="">ad8078870a0a4ed4ac019275e40cf469</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_d5f7628d87cb091072fbbaa8dabb352c</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_d5f7628d87cb091072fbbaa8dabb352c">04ce7d1a1bff01104d93ea06624bcb59</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-03 06:01:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
